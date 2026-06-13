@@ -13839,6 +13839,13 @@
     "estado": "PENDIENTE"
   },
   {
+    "vin": "9BRKB3F35V8395333",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "AMIUN S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
     "vin": "9BRKB3F36V8394952",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -23716,6 +23723,55 @@
     "estado": "EN VIAJE"
   },
   {
+    "vin": "9BRA78BF7V3010216",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3FS1T0413015",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJKA3CD3T8139579",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF8V3011474",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F30V8395238",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F36V8395146",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRK4AAG3T0235830",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUDEC S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "8AJBA3CDXT7990056",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -23737,20 +23793,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3FS1T0413015",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJKA3CD3T8139579",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "9BRAA8AF1T3007893",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -23758,35 +23800,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRAA8AF8V3011474",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF7V3010216",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F30V8395238",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F36V8395146",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUDEC S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRK4AAG3T0235830",
+    "vin": "9BRKB3F37V8395317",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "AUDEC S.A.",
@@ -38941,6 +38955,118 @@
     "estado": "EN VIAJE"
   },
   {
+    "vin": "8AJCB3DD5T3930886",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD9T3930292",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD9T6609020",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DDXT4260348",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD8T4260333",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF8V3012463",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF2V3011855",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F33V8395234",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DDXT3930933",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DDXT3930947",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD0T3930956",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD0T3930973",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD9T6609227",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD9T4260342",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJKA3CD5T8139986",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F39V8395254",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOLUX S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "8AJCB3DB3T5746940",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -38948,49 +39074,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJCB3DDXT3930933",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DDXT3930947",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DD0T3930956",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DD0T3930973",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJCB3DD2T3930974",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DD5T3930886",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DD9T3930292",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "AUTOLUX S.A.",
@@ -39018,27 +39102,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD9T6609020",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD9T6609227",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DDXT4260348",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJJB3DD1T4260335",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -39060,27 +39123,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJJB3DD8T4260333",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD9T4260342",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJKA3CD5T8139986",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJKA3CD6T8139883",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -39088,28 +39130,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRAA8AF8V3012463",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF2V3011855",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F33V8395234",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOLUX S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F39V8395254",
+    "vin": "9BRA78BF9V3011982",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "AUTOLUX S.A.",
@@ -48494,6 +48515,27 @@
     "fechaArribo": "12/06/2026",
     "dealer": "AUTORA S.A.",
     "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJDB3CD1T6608380",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD2T6609182",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD4T6609202",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTORA S.A.",
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJBA3CD2T7991928",
@@ -63042,6 +63084,62 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "8AJBA3CD4T7994622",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD8T7992257",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB4T5551760",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB8T5551728",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD3T6603892",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRBZ3BE8T4085653",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F3XV8394792",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F36V8395213",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "JTDAFAAF3T3015686",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -63049,56 +63147,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3CD4T7994622",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJBA3CD8T7992257",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CB4T5551760",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CB8T5551728",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD3T6603892",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRBZ3BE8T4085653",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F3XV8394792",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F36V8395213",
+    "vin": "9BRKB3F31V8395149",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "AUTOSIGLO S.A.",
@@ -68964,11 +69013,81 @@
     "estado": "ENTREGADA"
   },
   {
-    "vin": "8AJBA3CD2T8002231",
-    "fechaCarga": null,
+    "vin": "9BRAA8AF2V3010823",
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "BHASSA",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF3V3013133",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD9T7988914",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD3T3930210",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD8T3930915",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB8T5551776",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CDXT6602920",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD7T6608478",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRK4AAG6T0238351",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD2T8002231",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF2V3011905",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "BHASSA",
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJBA3CD4T7989064",
@@ -68985,21 +69104,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3CD9T7988914",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJCB3DD0T3930939",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJCB3DD3T3930210",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "BHASSA",
@@ -69020,35 +69125,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJCB3DD8T3930915",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CB8T5551776",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJDB3CB9T5551642",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CDXT6602920",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD7T6608478",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "BHASSA",
@@ -69097,35 +69174,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRAA8AF2V3010823",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRAA8AF3V3013133",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF2V3011905",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "9BRB43BE3V2261327",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "BHASSA",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRK4AAG6T0238351",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "BHASSA",
@@ -72192,6 +72241,13 @@
   },
   {
     "vin": "9BRKB3F33V8395198",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "CATRIEL MAPU S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRKB3F36V8395325",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "CATRIEL MAPU S.A.",
@@ -86898,14 +86954,70 @@
     "estado": "ENTREGADA"
   },
   {
-    "vin": "8AJAA3DD9T1253685",
-    "fechaCarga": null,
+    "vin": "8AJBA3CD0T8004088",
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
   },
   {
-    "vin": "8AJBA3CD0T8004088",
+    "vin": "8AJJB3DD2T4260442",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD7T4260405",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF2V3013673",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF0V3010803",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF0V3011983",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF2V3010883",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F34V8395372",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRK29BTXP0240397",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "CENTRO MOTOR S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJAA3DD9T1253685",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "CENTRO MOTOR S.A.",
@@ -86926,49 +87038,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJJB3DD2T4260442",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJJB3DD2T4260473",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD7T4260405",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRAA8AF2V3013673",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF0V3010803",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF0V3011983",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF2V3010883",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "CENTRO MOTOR S.A.",
@@ -86989,7 +87059,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKB3F34V8395372",
+    "vin": "9BRKB3F35V8395266",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "CENTRO MOTOR S.A.",
@@ -87003,7 +87073,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRK29BTXP0240397",
+    "vin": "9BRKB3F39V8395352",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "CENTRO MOTOR S.A.",
@@ -97384,6 +97454,62 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "9BRA78BF8V3011116",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3CD5T7998209",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3CD6T7998882",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3FS2T0415470",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3FS2V0417223",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJCB3DD3T3930689",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRA78BF0V3011286",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRKB3F37V8395012",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "JF1ZN8L81TG133056",
     "fechaCarga": "04/06/2026",
     "fechaArribo": null,
@@ -97399,62 +97525,6 @@
   },
   {
     "vin": "9BRA78BF4V3010366",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD5T7998209",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD6T7998882",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3FS2T0415470",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3FS2V0417223",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJCB3DD3T3930689",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRA78BF0V3011286",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRA78BF8V3011116",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRKB3F37V8395012",
     "fechaCarga": "09/06/2026",
     "fechaArribo": null,
     "dealer": "DERKA Y VARGAS S.A.",
@@ -97678,6 +97748,13 @@
     "estado": "EN VIAJE"
   },
   {
+    "vin": "8AJJB3DDXT4260432",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "DERKA Y VARGAS S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "JTM5C3AV3TD301139",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -97777,13 +97854,6 @@
   },
   {
     "vin": "8AJDB3CD9T6609129",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DDXT4260432",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "DERKA Y VARGAS S.A.",
@@ -104483,13 +104553,20 @@
   },
   {
     "vin": "8AJDB3CD1T6609366",
-    "fechaCarga": null,
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "FECORP S.R.L.",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJDB3CD7T6608819",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "FECORP S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF2V3012021",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "FECORP S.R.L.",
@@ -104497,6 +104574,13 @@
   },
   {
     "vin": "9BRA78BF7V3011138",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "FECORP S.R.L.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF7V3011754",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "FECORP S.R.L.",
@@ -124159,6 +124243,55 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "8AJBA3CD3T7994353",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3CD9T8001626",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3FS2T0415839",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJDB3CD5T6607684",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJDB3CD9T6607218",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJJB3DD5T4260273",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJKA3CD8T8136399",
+    "fechaCarga": "11/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "GONZALEZ GONZALEZ S.A",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJBA3CD4T7999335",
     "fechaCarga": "09/06/2026",
     "fechaArribo": null,
@@ -124203,55 +124336,6 @@
   {
     "vin": "8AJKA3CD9T8138498",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD3T7994353",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD9T8001626",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3FS2T0415839",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJDB3CD5T6607684",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJDB3CD9T6607218",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJJB3DD5T4260273",
-    "fechaCarga": "11/06/2026",
-    "fechaArribo": null,
-    "dealer": "GONZALEZ GONZALEZ S.A",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJKA3CD8T8136399",
-    "fechaCarga": "11/06/2026",
     "fechaArribo": null,
     "dealer": "GONZALEZ GONZALEZ S.A",
     "estado": "EN VIAJE"
@@ -135968,60 +136052,60 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "JTM5C3AV6TD300258",
+    "fechaCarga": "12/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "HAIMOVICH PARANA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJAA3DD2T1253639",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD8T8001570",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD9T8002260",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRKB3F36V8395230",
-    "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "JTM5C3AV6TD300258",
-    "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRAA8AF4V3012573",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRA78BF6V3010546",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRA78BF9V3010623",
     "fechaCarga": "12/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "13/06/2026",
     "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRKB3F36V8395230",
+    "fechaCarga": "12/06/2026",
+    "fechaArribo": "13/06/2026",
+    "dealer": "HAIMOVICH PARANA S.A.",
+    "estado": "ENTREGADA"
   },
   {
     "vin": "JTM5C3AV1TD301205",
@@ -139049,6 +139133,13 @@
   },
   {
     "vin": "8AJJB3DD2T4260392",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "HOMU S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRAA8AF7V3015273",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "HOMU S.A.",
@@ -159054,6 +159145,111 @@
     "estado": "EN VIAJE"
   },
   {
+    "vin": "8AJDB3CD1T6609318",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD5T6609225",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD7T6608092",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD0T4260407",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD4T4260412",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD8T4260414",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF7V3011477",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRB43BE0V2260510",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3FS6V0417080",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB6T5551923",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DDXT4260351",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD4T4260331",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD5T4260354",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD6T4260377",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD8T4260347",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "LINE UP",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "8AJAA3DD0R1249081",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -159068,13 +159264,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3FS6V0417080",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJCB3DD9T3930938",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -159082,49 +159271,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CB6T5551923",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD1T6609318",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJDB3CD2T6609456",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD5T6609225",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD7T6608092",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DDXT4260351",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD0T4260407",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "LINE UP",
@@ -159145,20 +159292,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJJB3DD4T4260331",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD4T4260412",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJJB3DD4T4260457",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -159167,13 +159300,6 @@
   },
   {
     "vin": "8AJJB3DD5T4259124",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD5T4260354",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "LINE UP",
@@ -159194,27 +159320,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJJB3DD6T4260377",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD8T4260347",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD8T4260414",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJJB3DD9T4260406",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -159223,20 +159328,6 @@
   },
   {
     "vin": "8AJJB3DD9T4260468",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRA78BF7V3011477",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "LINE UP",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRB43BE0V2260510",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "LINE UP",
@@ -162205,6 +162296,13 @@
   },
   {
     "vin": "9BRA78BF7V3010426",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "MENDEZ KYOUDAI S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRKB3F36V8395308",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "MENDEZ KYOUDAI S.A.",
@@ -188356,6 +188454,118 @@
     "estado": "EN VIAJE"
   },
   {
+    "vin": "8AJBA3CD4T7992594",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DD3T3930174",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB5T5551671",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CDXT6607325",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD4T6607451",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF2V3010012",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF8V3010788",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F32V8395242",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD2T7987703",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD2T6608419",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD2T6608713",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD3T6608185",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD4T6608258",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRA78BF5V3008173",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F38V8395147",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKZAAG9T0765205",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NIPPON CAR S.R.L.",
+    "estado": "EN VIAJE"
+  },
+  {
     "vin": "JTFXBGAP6T8012258",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -188552,20 +188762,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD2T6608419",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "NIPPON CAR S.R.L.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD2T6608713",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "NIPPON CAR S.R.L.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJDB3CD2T6608937",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -188580,21 +188776,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD3T6608185",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "NIPPON CAR S.R.L.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJDB3CD4T6603917",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "NIPPON CAR S.R.L.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD4T6608258",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "NIPPON CAR S.R.L.",
@@ -188881,14 +189063,14 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKB3F32V8395242",
+    "vin": "9BRKB3F34V8395064",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "NIPPON CAR S.R.L.",
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKB3F34V8395064",
+    "vin": "9BRKB3F34V8395386",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "NIPPON CAR S.R.L.",
@@ -196618,6 +196800,20 @@
   {
     "vin": "9BRKZAAG4T0765547",
     "fechaCarga": "12/06/2026",
+    "fechaArribo": null,
+    "dealer": "NUÑEZ AUTOS S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DDXT3929149",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "NUÑEZ AUTOS S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKZAAG9T0763986",
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "NUÑEZ AUTOS S.A.",
     "estado": "EN VIAJE"
@@ -209930,7 +210126,21 @@
     "estado": "PENDIENTE"
   },
   {
+    "vin": "9BRKB3F32V8395337",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "SARTHOU AUTOMOTORES S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
     "vin": "9BRKB3F38V8395195",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "SARTHOU AUTOMOTORES S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRKB3F38V8395293",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "SARTHOU AUTOMOTORES S.A.",
@@ -212940,32 +213150,32 @@
     "estado": "ENTREGADA"
   },
   {
-    "vin": "9BRAA8AF3V3008773",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
     "vin": "8AJBA3FS9V0418398",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRAA8AF3V3008773",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "SENNA AUTOMOTORES S.A.",
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRAA8AF4V3009639",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F38V8393866",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD1T7988468",
@@ -213130,6 +213340,13 @@
   },
   {
     "vin": "9BRBZ3BE4T4085861",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "SENNA AUTOMOTORES S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRKB3F37V8395379",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "SENNA AUTOMOTORES S.A.",
@@ -216588,10 +216805,38 @@
   },
   {
     "vin": "JTM5C3AV1TD302399",
-    "fechaCarga": null,
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "T.M.  S.A.",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD8T4260400",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "T.M.  S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F31V8395328",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "T.M.  S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F34V8395193",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "T.M.  S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F38V8395391",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "T.M.  S.A.",
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJDB3CD8T6608425",
@@ -216602,34 +216847,6 @@
   },
   {
     "vin": "8AJJB3DD6T4260461",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "T.M.  S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJJB3DD8T4260400",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "T.M.  S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F31V8395328",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "T.M.  S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F34V8395193",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "T.M.  S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKB3F38V8395391",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "T.M.  S.A.",
@@ -222489,6 +222706,13 @@
   },
   {
     "vin": "9BRAA8AF0V3012201",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF6V3012037",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "T.T.C. AUTO ARGENTINA S.A.",
@@ -232302,6 +232526,27 @@
     "estado": "PENDIENTE"
   },
   {
+    "vin": "9BRA78BF1V3011720",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "TREOS NORTE S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF3V3011654",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "TREOS NORTE S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF6V3011874",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "TREOS NORTE S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
     "vin": "9BRA78BF7T3006597",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -232330,7 +232575,21 @@
     "estado": "PENDIENTE"
   },
   {
+    "vin": "9BRKB3F3XV8395120",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "TREOS NORTE S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
     "vin": "9BRKB3F30V8395370",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "TREOS NORTE S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRKB3F39V8395139",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "TREOS NORTE S.A.",
@@ -243251,10 +243510,52 @@
   },
   {
     "vin": "8AJBA3CDXT7988789",
-    "fechaCarga": null,
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD6T7988742",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD8T7988838",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3FS6V0418732",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB2T5551952",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CDXT6609432",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRB43BE0V2262256",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "UZCUDUM S.A.F.I.M.",
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJBA3CD2R1918537",
@@ -243271,42 +243572,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3CD6T7988742",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJBA3CD6T8004256",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJBA3CD8T7988838",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJBA3FS6V0418732",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CB2T5551952",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CDXT6609432",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "UZCUDUM S.A.F.I.M.",
@@ -243369,7 +243635,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRB43BE0V2262256",
+    "vin": "9BRA78BF7V3012029",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "UZCUDUM S.A.F.I.M.",
@@ -254219,60 +254485,60 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "8AJDB3CD8T6608909",
+    "fechaCarga": "09/06/2026",
+    "fechaArribo": "11/06/2026",
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJBA3CD4T7988609",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD6T7987090",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJDB3CDXT6608880",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJDB3CD8T6608909",
-    "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJKA3CD0T8139264",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRA78BF0V3011384",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRA78BF1V3011099",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRB43BE9V2259906",
     "fechaCarga": "09/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD0T7994018",
@@ -254443,11 +254709,88 @@
     "estado": "EN VIAJE"
   },
   {
-    "vin": "8AJBA3CD5T7994922",
-    "fechaCarga": null,
+    "vin": "9BRKZAAGXT0764578",
+    "fechaCarga": "13/06/2026",
     "fechaArribo": null,
     "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJCB3DB0T5746913",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CD7T6609291",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRKB3F32V8395225",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJBA3CD5T7994922",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CB7T5551980",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJDB3CDXT6608958",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJJB3DD7T4260470",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "8AJKA3CD0T8137904",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF1V3010456",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRAA8AF5V3010525",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
+  },
+  {
+    "vin": "9BRBZ3BE0T4084903",
+    "fechaCarga": "13/06/2026",
+    "fechaArribo": null,
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "EN VIAJE"
   },
   {
     "vin": "8AJBA3CD9T7994891",
@@ -254457,35 +254800,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJCB3DB0T5746913",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CB7T5551980",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CDXT6608958",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "8AJDB3CD2T6604290",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD7T6609291",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "YACOPINI INVERSORA S.A.",
@@ -254527,41 +254842,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJJB3DD7T4260470",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJKA3CD0T8137904",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRAA8AF1V3010456",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRAA8AF5V3010525",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRBZ3BE0T4084903",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
     "vin": "9BRBZ3BE1T4086241",
     "fechaCarga": null,
     "fechaArribo": null,
@@ -254569,14 +254849,7 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKB3F32V8395225",
-    "fechaCarga": null,
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKZAAGXT0764578",
+    "vin": "9BRKB3F30V8395336",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "YACOPINI INVERSORA S.A.",
@@ -265167,56 +265440,56 @@
     "estado": "ENTREGADA"
   },
   {
-    "vin": "JTM5E3AV8TD000263",
+    "vin": "9BRKB3F38V8395164",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
-    "vin": "JTM5E3AV9TD000496",
+    "vin": "JTM5E3AV8TD000263",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJKA3CD6T8139530",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRA78BF4V3011825",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRB43BE4V2260252",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRB43BE5V2259501",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRB43BE9V2259629",
     "fechaCarga": "10/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "11/06/2026",
     "dealer": "ZENTO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
-    "vin": "9BRKB3F38V8395164",
+    "vin": "JTM5E3AV9TD000496",
     "fechaCarga": "10/06/2026",
     "fechaArribo": null,
     "dealer": "ZENTO S.A.",
@@ -265280,6 +265553,20 @@
   },
   {
     "vin": "8AJJB3DD4T4260376",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "ZENTO S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF6V3011986",
+    "fechaCarga": null,
+    "fechaArribo": null,
+    "dealer": "ZENTO S.A.",
+    "estado": "PENDIENTE"
+  },
+  {
+    "vin": "9BRA78BF9V3012047",
     "fechaCarga": null,
     "fechaArribo": null,
     "dealer": "ZENTO S.A.",
