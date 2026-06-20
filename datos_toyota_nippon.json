@@ -13580,11 +13580,60 @@
     "estado": "ENTREGADA"
   },
   {
-    "vin": "8AJCB3DB8T5746951",
+    "vin": "8AJAA3DD9T1253637",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3CD2T7989855",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJBA3CD5T7989039",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJCB3DD6T3930976",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJCB3DD7T3930680",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRA78BF7V3012323",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRA78BF9V3012310",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRKB3F31V8395393",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AMIUN S.A.",
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJDB3CB1T5552025",
@@ -13616,62 +13665,6 @@
   },
   {
     "vin": "9BRKB3F38V8395424",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJAA3DD9T1253637",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD2T7989855",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD5T7989039",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJCB3DD6T3930976",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJCB3DD7T3930680",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRA78BF7V3012323",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRA78BF9V3012310",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AMIUN S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRKB3F31V8395393",
     "fechaCarga": "19/06/2026",
     "fechaArribo": null,
     "dealer": "AMIUN S.A.",
@@ -63287,67 +63280,67 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "JTM5E3AVXTD002578",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "20/06/2026",
+    "dealer": "AUTOSIGLO S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJBA3CD4T7998380",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJCB3DD9T3930602",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F31V8395054",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F36V8395521",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F37V8395463",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F38V8395357",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F38V8395522",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRKB3F39V8395545",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "20/06/2026",
     "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "JTM5E3AVXTD002578",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "JTM5C3AV6TD007606",
