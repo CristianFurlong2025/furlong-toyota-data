@@ -237841,23 +237841,23 @@
   {
     "vin": "8AJDB3CDXT6609477",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "21/06/2026",
     "dealer": "TSUYOI S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJDB3CD1T6609464",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "21/06/2026",
     "dealer": "TSUYOI S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJDB3CD3T6609403",
     "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
+    "fechaArribo": "21/06/2026",
     "dealer": "TSUYOI S.A.",
-    "estado": "EN VIAJE"
+    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3FS2T0415596",
@@ -253505,6 +253505,34 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "8AJBA3CD9T7994891",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "21/06/2026",
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJDB3CD5T6608706",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "21/06/2026",
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "8AJDB3CD5T6609726",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "21/06/2026",
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
+    "vin": "9BRKZAAG8T0763252",
+    "fechaCarga": "19/06/2026",
+    "fechaArribo": "21/06/2026",
+    "dealer": "YACOPINI INVERSORA S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJBA3CD0T7995315",
     "fechaCarga": "18/06/2026",
     "fechaArribo": null,
@@ -253737,34 +253765,6 @@
   },
   {
     "vin": "9BRKB3F33V8395556",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJBA3CD9T7994891",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJDB3CD5T6608706",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "8AJDB3CD5T6609726",
-    "fechaCarga": "19/06/2026",
-    "fechaArribo": null,
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRKZAAG8T0763252",
     "fechaCarga": "19/06/2026",
     "fechaArribo": null,
     "dealer": "YACOPINI INVERSORA S.A.",
