@@ -1,54 +1,5 @@
 [
   {
-    "vin": "8AJBA3FS4T0410884",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CDXT1389741",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD2T1389667",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD0T7983424",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD3T7983353",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD5T7983662",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE8T4082039",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "ALEM SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "JTFXBGAP3T8011567",
     "fechaCarga": "16/01/2026",
     "fechaArribo": "20/01/2026",
@@ -15463,34 +15414,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTMDW3FV4SD343572",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "ASAHI MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV6SD342052",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "ASAHI MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV6SD346182",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "ASAHI MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV7SD348037",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "ASAHI MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJDB3CDXT1388332",
     "fechaCarga": "21/01/2026",
     "fechaArribo": "22/01/2026",
@@ -26040,34 +25963,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD8T6600017",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTO PRANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE7T4082615",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTO PRANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG3T0229543",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTO PRANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG7T0229531",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTO PRANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3FS9T0411173",
     "fechaCarga": "26/01/2026",
     "fechaArribo": "26/01/2026",
@@ -31911,111 +31806,6 @@
     "fechaArribo": null,
     "dealer": "AUTO PRANA S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD6T1388666",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CDXT1388413",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD0T1389568",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD3T1388110",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD5T1389355",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJKA3CD4T8130406",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE2T2253779",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG6T0227902",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJJB3DD2T4257850",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJJB3DD5T4257857",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD0T1389330",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD5T1389372",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD8T1389396",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD9T1389309",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD9T1389388",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOLUX S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3FS6T0410899",
@@ -42389,62 +42179,6 @@
     "fechaCarga": "04/05/2026",
     "fechaArribo": "04/05/2026",
     "dealer": "AUTOMOVILES ATN S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD3T3928795",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJKA3CD4T8131930",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG2T0754837",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG3T0753468",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG4T0754080",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG7T0754798",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE3T2253791",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE6T2253767",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "AUTONORT S.A.",
     "estado": "ENTREGADA"
   },
   {
@@ -53039,76 +52773,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTFXBGAP3T8011634",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD5T7982351",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD8T7982117",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BEXT2253643",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE7T2253731",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD2T7982114",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE7T2253664",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD5T7981829",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD7T7982304",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG6T0229567",
-    "fechaCarga": "24/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "AUTOS DEL SUR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "JTMDW3FV2SD608070",
     "fechaCarga": "20/01/2026",
     "fechaArribo": "20/01/2026",
@@ -59183,62 +58847,6 @@
     "fechaArribo": null,
     "dealer": "AUTOS DEL SUR S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJBA3CD8T7976768",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS3T0406468",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD2T3928741",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CB0T5551027",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BEXT4081247",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE2T4080920",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE3T2253757",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD6T7978387",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "AUTOSIGLO S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJBA3CD2T7979312",
@@ -68824,27 +68432,6 @@
     "estado": "EN VIAJE"
   },
   {
-    "vin": "8AJBA3CD3T7981151",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "BHASSA",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD3T7981585",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "BHASSA",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD5T7981569",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "BHASSA",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3CDXT7980529",
     "fechaCarga": "21/01/2026",
     "fechaArribo": "22/01/2026",
@@ -78015,69 +77602,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTDAFAAF3T3015557",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTDAFAAF7T3015190",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTDAF4E33TA035756",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTDAF4E35TA035788",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTHAAAAE8T1060817",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV0SD346243",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV0SD346341",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV7SD346675",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTDAF4E39TA035843",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3CD6T7979894",
     "fechaCarga": "22/01/2026",
     "fechaArribo": "29/01/2026",
@@ -81284,6 +80808,13 @@
     "estado": "ENTREGADA"
   },
   {
+    "vin": "9BRKB3F38V8396024",
+    "fechaCarga": "21/07/2026",
+    "fechaArribo": "25/07/2026",
+    "dealer": "CELENTANO MOTORS S.A.",
+    "estado": "ENTREGADA"
+  },
+  {
     "vin": "8AJKA3CD5T8136814",
     "fechaCarga": "10/07/2026",
     "fechaArribo": null,
@@ -81383,13 +80914,6 @@
   },
   {
     "vin": "9BRA78BF2V3010091",
-    "fechaCarga": "21/07/2026",
-    "fechaArribo": null,
-    "dealer": "CELENTANO MOTORS S.A.",
-    "estado": "EN VIAJE"
-  },
-  {
-    "vin": "9BRKB3F38V8396024",
     "fechaCarga": "21/07/2026",
     "fechaArribo": null,
     "dealer": "CELENTANO MOTORS S.A.",
@@ -81618,62 +81142,6 @@
     "fechaArribo": null,
     "dealer": "CELENTANO MOTORS S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJBA3CDXT7974536",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD4T7982065",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJKA3CD9T8131017",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV1SD345392",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD6T7982133",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTFMAHAW8T8090463",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV7SD348913",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV9SD608650",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "CENTRO MOTOR S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJEB8CP2S3000749",
@@ -93625,13 +93093,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9F3LCS0F5R5104289",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "CENTROCAM S.R.L.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "9F3YCS0F2T5104859",
     "fechaCarga": "29/04/2026",
     "fechaArribo": "30/04/2026",
@@ -97284,62 +96745,6 @@
     "fechaArribo": null,
     "dealer": "DEL PARQUE S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRBZ3BE8T4081019",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJAA3DDXT1252870",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CDXT7981969",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD6T7981922",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD1T3928813",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD5T3927809",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE1T4081265",
-    "fechaCarga": "14/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE5T2252609",
-    "fechaCarga": "15/01/2026",
-    "fechaArribo": "16/01/2026",
-    "dealer": "DERKA Y VARGAS S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "JTFXBGAP4T8011576",
@@ -105364,27 +104769,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKZAAG6T0755229",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "FECORP S.R.L.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG2T0229629",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "FECORP S.R.L.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG9T0229515",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "FECORP S.R.L.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "9BRKZAAGXT0754827",
     "fechaCarga": "22/01/2026",
     "fechaArribo": "23/01/2026",
@@ -113351,34 +112735,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKZAAG3T0749565",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "FEDERICO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG4T0746531",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "FEDERICO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG5T0748370",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "FEDERICO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG7T0751674",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "FEDERICO S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3CD8T7980870",
     "fechaCarga": "26/01/2026",
     "fechaArribo": "26/01/2026",
@@ -117570,90 +116926,6 @@
     "fechaArribo": null,
     "dealer": "FEDERICO S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "JTMDW3FVXSD349327",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV1SD608934",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV2SD346079",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV3SD350237",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAGXT0229636",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG8T0229571",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG1T0229539",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAG8T0229568",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD7T7983856",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD9T7983079",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE1T4081914",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE3T4081770",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "GINZA S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRB43BE7T2253776",
@@ -134330,62 +133602,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD4T1389153",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV9SD608891",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FVXSD346587",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV6SD350460",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD7T7984425",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE0T4082181",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE5T4082175",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRK4AAGXT0229524",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "GUSTAVO RICCIARDI S.A",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "9BRK4AAG9T0229532",
     "fechaCarga": "23/01/2026",
     "fechaArribo": "26/01/2026",
@@ -139928,55 +139144,6 @@
     "fechaArribo": null,
     "dealer": "GUSTAVO RICCIARDI S.A",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJDB3CD0T1382961",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CDXT7979834",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS7T0407588",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS7T0408076",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJJB3DD2T4257654",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BEXT4078719",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKB3F35T8387424",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "HAIMOVICH PARANA S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJDB3CDXT1389027",
@@ -164556,41 +163723,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTMDW3FVXSD345665",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "LINE UP",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTMDW3FV9SD342935",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "LINE UP",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD9T7983471",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "LINE UP",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJJB3DD9T4257859",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "LINE UP",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE5T2253761",
-    "fechaCarga": "20/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "LINE UP",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "9BRB43BE9T2253830",
     "fechaCarga": "24/01/2026",
     "fechaArribo": "26/01/2026",
@@ -172443,62 +171575,6 @@
     "fechaArribo": null,
     "dealer": "LINE UP",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "9BRKZAAG1T0752366",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS4T0408620",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BEXT2253772",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJAA3DD8T1253032",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS3T0411234",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FS6T0410949",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CB1T5550758",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKB3F3XT8390660",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "24/01/2026",
-    "dealer": "MENDEZ KYOUDAI S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJCB3DB3T5746274",
@@ -207501,13 +206577,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "9BRKZAAG1T0752867",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "NUÑEZ AUTOS S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3FS0T0406900",
     "fechaCarga": "22/01/2026",
     "fechaArribo": "23/01/2026",
@@ -221382,13 +220451,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTDAF4E32TA035795",
-    "fechaCarga": "19/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "SARTHOU AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "JTMDW3FV4SD606109",
     "fechaCarga": "23/01/2026",
     "fechaArribo": "23/01/2026",
@@ -227288,62 +226350,6 @@
     "fechaArribo": null,
     "dealer": "SARTHOU AUTOMOTORES S.A.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "JTDAF4E37TA035288",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJAA3DD7T1252759",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD7T7981184",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD9T7980358",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJJB3DD1T4257841",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BEXT4077330",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE6T4081598",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG8T0745429",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "SENNA AUTOMOTORES S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "8AJCB3DD1T3928827",
@@ -234346,62 +233352,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3CD0T7977090",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD2T7974272",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FSXT0409691",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DB4T5746154",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE7T4076250",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD8T3928730",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJCB3DD9T3928493",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJKA3CD6T3157992",
-    "fechaCarga": "21/01/2026",
-    "fechaArribo": "21/01/2026",
-    "dealer": "T.T.C. AUTO ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJCB3DD0T3928835",
     "fechaCarga": "26/01/2026",
     "fechaArribo": "26/01/2026",
@@ -240723,20 +239673,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "JTHAAAAEXT1056980",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TOYOTA ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "JTHUCBDH9T2013731",
-    "fechaCarga": "23/01/2026",
-    "fechaArribo": "23/01/2026",
-    "dealer": "TOYOTA ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "JTHAAAAE2T1058027",
     "fechaCarga": "29/01/2026",
     "fechaArribo": "29/01/2026",
@@ -242680,48 +241616,6 @@
     "fechaCarga": "24/07/2026",
     "fechaArribo": "24/07/2026",
     "dealer": "TOYOTA ARGENTINA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE5T4077932",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKB3F33T8388801",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKB3F34T8389620",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKB3F36T8389666",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3CD8T7981551",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJBA3FSXT0409979",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "22/01/2026",
-    "dealer": "TREOS NORTE S.A.",
     "estado": "ENTREGADA"
   },
   {
@@ -251517,41 +250411,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJDB3CD7T1389289",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "TSUYOI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD7T1389292",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "TSUYOI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CB0T5550959",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "TSUYOI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE5T4082404",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "TSUYOI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRBZ3BE8T4082333",
-    "fechaCarga": "22/01/2026",
-    "fechaArribo": "26/01/2026",
-    "dealer": "TSUYOI S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "JTMDW3FV0SD345531",
     "fechaCarga": "20/01/2026",
     "fechaArribo": "22/01/2026",
@@ -257684,20 +256543,6 @@
     "estado": "PENDIENTE"
   },
   {
-    "vin": "8AJBA3CD9T7971899",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD7T1389390",
-    "fechaCarga": "16/01/2026",
-    "fechaArribo": "19/01/2026",
-    "dealer": "UZCUDUM S.A.F.I.M.",
-    "estado": "ENTREGADA"
-  },
-  {
     "vin": "8AJBA3CD0T7983066",
     "fechaCarga": "16/01/2026",
     "fechaArribo": "17/01/2026",
@@ -262694,41 +261539,6 @@
     "fechaArribo": null,
     "dealer": "UZCUDUM S.A.F.I.M.",
     "estado": "PENDIENTE"
-  },
-  {
-    "vin": "8AJAA3DD9T1252813",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD4T1388035",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "8AJDB3CD6T1388022",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRB43BE9T2253682",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "ENTREGADA"
-  },
-  {
-    "vin": "9BRKZAAG7T0753635",
-    "fechaCarga": "17/01/2026",
-    "fechaArribo": "20/01/2026",
-    "dealer": "YACOPINI INVERSORA S.A.",
-    "estado": "ENTREGADA"
   },
   {
     "vin": "9BRK4AAG9T0229630",
